@@ -10,4 +10,7 @@
 
 ![Screen Shot 2021-09-28 at 8 57 40 AM](https://user-images.githubusercontent.com/91136182/135092041-22a99b62-937e-4858-9236-c041214a014e.png)
 
-4. After creating the new repository, open your prefferred HTML editor and create a new file called index.html
+4. After creating the new repository, open your prefferred HTML editor and create a new file called index.html - type the following code and save your file.
+
+
+![Screen Shot 2021-09-28 at 9 07 26 AM](https://user-images.githubusercontent.com/91136182/135092959-4b0f489d-ab83-4e3b-bbe3-7c17e2f6dedc.png)
