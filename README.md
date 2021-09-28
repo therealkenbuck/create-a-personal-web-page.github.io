@@ -22,4 +22,6 @@
 
 7. Click the green "Commit changes" button at the bottom of the page.
 
-8. Your new personal page has been created. Open a new web browser window and enter the name of your new page that you created in step 3 "your-github-username.github.io" (remember to replace "your-github-username" with your actual Github username) and your new personal webpage will be displayed
+8. Your new personal page has been created. Open a new web browser window and enter the name of your new page that you created in step 3 "your-github-username.github.io" (remember to replace "your-github-username" with your actual Github username) and your new personal webpage will be displayed.
+
+![Screen Shot 2021-09-28 at 9 28 30 AM](https://user-images.githubusercontent.com/91136182/135096216-2b2adf8d-4676-48cc-919f-8af6527e48e8.png)
