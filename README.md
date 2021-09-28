@@ -6,7 +6,7 @@
 
 ![Screen Shot 2021-09-28 at 8 55 32 AM](https://user-images.githubusercontent.com/91136182/135091131-3cefca26-869b-453c-8755-cff22bcaca43.png)
 
-3. Give your new Repository a name - in this case name your new repository [your-github-username.github.io], give it a description if you wish and then press the green "Create repository" button at the bottom of the page.
+3. Give your new Repository a name - in this case name your new repository "your-github-username.github.io" (remember to replace "your-github-username" with your actual Github username), give it a description if you wish and then press the green "Create repository" button at the bottom of the page.
 
 ![Screen Shot 2021-09-28 at 8 57 40 AM](https://user-images.githubusercontent.com/91136182/135092041-22a99b62-937e-4858-9236-c041214a014e.png)
 
@@ -21,3 +21,5 @@
 ![Screen Shot 2021-09-28 at 9 15 26 AM](https://user-images.githubusercontent.com/91136182/135094123-67b4b4ef-b597-4f43-af9b-01b11fdab6fe.png)
 
 7. Click the green "Commit changes" button at the bottom of the page.
+
+8. Your new personal page has been created. Open a new web browser window and enter the name of your new page that you created in step 3 "your-github-username.github.io" (remember to replace "your-github-username" with your actual Github username) and your new personal webpage will be displayed
